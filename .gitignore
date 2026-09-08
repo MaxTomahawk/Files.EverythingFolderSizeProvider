@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+AppPackages/
+*.user
+*.pfx
